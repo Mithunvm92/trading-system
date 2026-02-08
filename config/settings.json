@@ -1,0 +1,8 @@
+{
+  "capital": 100000,
+  "risk_per_trade_pct": 2.0,
+  "max_position_pct": 50,
+  "max_concurrent_trades": 5,
+  "min_rr": 2.0,
+  "trade_duration_days": 28
+}

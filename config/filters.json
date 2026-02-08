@@ -1,0 +1,18 @@
+{
+  "layer1": {
+    "min_volume": 500000,
+    "min_price": 100,
+    "max_price": 5000,
+    "min_delivery_pct": 40
+  },
+  "layer2": {
+    "rsi_min": 50,
+    "rsi_max": 70,
+    "adx_min": 25,
+    "volume_surge": 1.5
+  },
+  "layer3": {
+    "max_extension": 10,
+    "min_rr": 2.0
+  }
+}

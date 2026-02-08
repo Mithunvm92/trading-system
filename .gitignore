@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+.venv310/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs & data
+logs/
+data/
+output/
+
+# OS junk
+.DS_Store
+
+# Secrets
+config/*.json
+!config/filters.json
+!config/settings.json
+
+# PDFs & reports
+*.pdf
